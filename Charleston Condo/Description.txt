@@ -1,0 +1,9 @@
+Turns the Condo into a Minutemen (but can also be BOS/Railroad/Institute/Whatever) base with the objective of keeping an eye on Bunker Hill, using a restaurant as a cover.
+- First Floor has a Mr. Medic (Standard at all settlements of mine) (Optional) in one of the bathrooms. The other bathroom has a CWSS toilet and bubbler (Optional).  Bar area has a Vault Tech Addon Cola Bar, a Vault Tech OK Diner (Adv Agri, might need to change to something else short-term), and a  [JP] One More Cup of Coffee. The remaining booths have been changed into dynamic area.
+- Second floor contains an internal martial for some basic defense, an IDEK internal, and a 1x1 Medical plot. 
+- Third floor contains an internal Craftateria, the kitchen has been replaced with a modular kitchen version (optional), fridge replaced with a Creative Clutter version (Optional). The toilet has been replaced with a CWSS version (Optional). Mostly done for player convenience. Dining Room remains unchanged.
+- Top Floor: Player bedroom remains unchanged. 2nd Bedroom has a (SIMP)1x1 Double Bunk plot. It's a tight fit, and a bit cheap, but it works.
+
+Other notes:
+- I used SOE advanced conduits because I'm too lazy to copy the boxes everywhere and use normal conduits. If someone wants to xboxify this, feel free to rectify this.
+- The doors are replaced with Workshop Rearranged auto-closing doors, again, for player convenience and immersion. Again, if you want to Xboxify this, feel free to rectify this.
