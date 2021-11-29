@@ -1,0 +1,10 @@
+Shroud Manor Base. Aka: 'Totally not a base we use to keep an eye on those pesky Brotherhooders.'
+
+- I've gone through and redid the doors and restored the . No more Workshop Rearranged, and no more SOE.
+- Contains three Martial plots, Two Agri plots (though both are advanced), an IDEK plot (honestly how anyone can try to run without it is beyond me), one Industrial plot, one Water-Industrial plot (Was a municipal but the SS2 default did a weird thing when it was upgraded, blocking the front door with an invis one, so I switched it to that.), A player bedroom, A medic, a player workshop, a JP One more cup of coffee (for the agri plots).
+Notes:
+- As mentioned, I had to switch the Municipal water plot over to SH Industrial one due to a bug. I think it works better, honestly as it's not necessary to produce that much water.
+- I didn't do anything with the kitchen this time. Maybe putting a kitchen rec plot there isn't such a bad idea?
+- The Comms plot is kind of shoved into the wall. The idea here is that the screens are the comms, and the 'plot' is just tools for maintainance. 
+- Three martials may be a bit overkill on defense (but then again, there's no good reason NOT to go overkill on defense) so feel free to swap one of them out for something else. Maybe a bar or something? I don't know where it'd go though.
+- Since Shroud Manor is a lot bigger than all the other CC ones (Except the virtual one of course), I was able to do a lot more with it. Out of all of them, this one is definitely the most 'worth it'. Still don't see it as anything other than a 1 stage though.
