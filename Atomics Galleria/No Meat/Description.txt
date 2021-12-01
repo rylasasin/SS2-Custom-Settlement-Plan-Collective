@@ -1,0 +1,17 @@
+Contains:
+12 commercial plots. (1x General Store, 1x Armor Store, 1x Clothing Store, 1x General Goods, 1x Bookstore, 1x Furniture Store, 1x Medic, 2x Vendotron internal (food+chem), 2x Vendotron internal (junk+drink))
+6 Defensive plots (4x 1x1 High-Tech turrets, 2x Robot Parade)
+1x Comms plot
+1x Tax Center
+1x Water Internal (Adv)
+1x Power plot (Adv)
+1 Robot Workbench
+
+Notes:
+The 'No Meat' version presumes that you wish to keep the original intent of the Galleria intact: a shopping center run entirely by robots. 
+As such, there are no accomidations for human/ghoul settlers such as residential plots or recreational plots.  All 'recruiting' is done via a provided Robot Workbench.
+Additionally, there are the addition of 'Turret' towers. 
+These towers are located on each corner of the settlement boundaries, and are populated by one turret plot, plus two side laser turrets. 
+On top of that, all exits minus the front one are blocked to prevent enemies from moving in from other directions.
+There is no roof access, as I have no clue what I'd put up there.
+There is a player home and workshop that is hand-made.
