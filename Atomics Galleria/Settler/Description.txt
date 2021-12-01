@@ -1,0 +1,23 @@
+The version designed for squishy settlers. Self Sufficient.
+
+Contains: 
+10 commercial plots. (1x General Store, 1x Armor Store, 1x Clothing Store, 1x General Goods, 1x Bookstore, 1x Furniture Store, 1x Medic, 1x Vendotron internal (food+chem), 1x Vendotron internal (junk+drink))
+3 Defensive plots (All 2x2 basic)
+3x Agri (Basic)
+1x Comms plot
+1x Town Hall (Taxes, employs 3 settlers)
+2x Water (basic)
+1x Power plot 
+1x Power Transfer
+Housing for 26 setters (includes one Caretaker tower for the player)
+3x Toastmaster's Pavilion plots (Charisma traininer for 3 settlers each)
+1x 1x1 bathroom plot (for charisma training of one settler)
+1x Sensory Lab (Perception training)
+1x Mixed Up (Intelligence training)
+1x JP One more cup (endurance training)
+1x Tosser training (agility training for the 3 guards)
+1x Kitchen recreation plot (relaxation)
+1x Mega Crafteria
+
+Notes: This one assumes you want to run the settlement like a 'normal' settlement, with few/no robots. 
+I on purposefully made everything basic because unlike with robots, you must train settlers and that takes time, and unlike some settlement plans (and unlike the CC settlements) I'm like to NOT require you to import pre-trained settlers to occupy these places. Once trained properly you can adjust certain plots, like the basic ones, later.
