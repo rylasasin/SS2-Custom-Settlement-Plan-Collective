@@ -1,0 +1,4 @@
+Mystic Pines School of Urbancraft and Settlerly. A 'Settler Training School' settlement designed to churn out skilled settlers for your other settlements. 
+Contains a few of each type of SPECIAL training rec plots.
+Not really viable as a settlement in of itself. Essentially the idea is you send settlers from other places here, get them assigned to one of the (very numberous) SPECIAL-increasing rec plots, And send ones with maxed out stats that you need back to your settlements, and repeat.
+TECHNICALLY holds 40 settlers, but has jobs for less. Even so, still produces an admirable amount of food and building materials.
